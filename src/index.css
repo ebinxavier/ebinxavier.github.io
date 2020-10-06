@@ -1,0 +1,37 @@
+body {
+  background-color: #2c2d2d !important;
+  font-family: 'Ubuntu', sans-serif !important;
+  color:"#aaaca6" !important;
+}
+
+.menuItem {
+  font-size: 15px;
+}
+.menuItem:hover {
+  color: "#c98c4d";
+}
+
+/* Loading Animation */
+.loader {
+  border: 10px solid #f3f3f3;
+  border-radius: 50%;
+  border-top: 10px solid #3498db;
+  width: 50px;
+  height: 50px;
+  -webkit-animation: spin 2s linear infinite; /* Safari */
+  animation: spin 2s linear infinite;
+  margin: 10px auto;
+
+}
+
+/* Safari */
+@-webkit-keyframes spin {
+  0% { -webkit-transform: rotate(0deg); }
+  100% { -webkit-transform: rotate(360deg); }
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+/* Loading Animation ends */
