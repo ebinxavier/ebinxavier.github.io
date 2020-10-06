@@ -1,3 +1,7 @@
-## This repo is used to build https://ebinxavier.github.io page.
+# Portfolio
+### This is my portfolio page written in react.js
 
-Use the `npm publish` to publish changes.
+![alt screen-shot](./ss.png)
+Click [here](https://ebinxavier.github.io) for demo.
+
+
