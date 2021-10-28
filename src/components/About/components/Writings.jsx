@@ -45,14 +45,16 @@ const Writings = () => {
           </p>
           <p>
             After a year I got a job offer from <b>Datalkz</b>, a Dubai based
-            start-up company. I am currently working here. They hired me not
-            only because I am a React developer, but I knew <b>Three.js</b>{" "}
-            which is an awesome javascript library to visualize 3D models on the
-            web. From Datalkz I learned a lot. This is the first time I am
+            start-up company. This is the first time I am
             working for a start-up. The work culture, attitude to time
             constrained product delivery everything was different for me. I
             learned <b>GraphQL, Next.js, Docker, Redis</b> and much more from
-            Datalkz. Still continuing my journey on Datalkz.
+            Datalkz. I worked here for more than 2 years and moved back to my home town.
+          </p>
+          <p>
+            Currently I am working in <b>IBM India Software Labs</b> at Kochi as a Fullstack developer.
+            Here I am working in OpenPages which is a part of IBM cloud, a huge amount of work is happening in the IBM Cloud 
+            and I am looking forward to learn new things from here!
           </p>
           <p>
             I am always interested in making things, sometimes it may not be
