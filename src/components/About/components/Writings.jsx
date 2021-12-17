@@ -34,35 +34,33 @@ const Writings = () => {
             exposure to software development especially to web development. I
             worked there on
             <b> Angular.js, HTML and CSS</b>. Then I got some projects in{" "}
-            <b>Node.js</b> and it opened the world of server side programming to
-            me. After a couple of years I moved to another company <b>QBurst</b>{" "}
+            <b>Node.js</b> and it opened the world of server side programming. 
+            After a couple of years I moved to another company <b>QBurst</b>{" "}
             as an intermediate level frontend engineer. There I worked on{" "}
             <b>Angular 2+ and Material UI</b>, also I got a chance to work with
-            Selenium web driver using Node.js to automate some tasks.
+            Web automation using Selenium web driver and Node.js to automate some tasks.
             Fortunately I got an opportunity to work with
-            <b> React.js</b> which made me fall in love with React. I did a
+            <b> React.js</b>, I did a
             bunch of projects on this awesome tech.
           </p>
           <p>
-            After a year I got a job offer from <b>Datalkz</b>, a Dubai based
+            After a year I moved to <b>Datalkz</b>, a Dubai based
             start-up company. This is the first time I am
             working for a start-up. The work culture, attitude to time
             constrained product delivery everything was different for me. I
             learned <b>GraphQL, Next.js, Docker, Redis</b> and much more from
-            Datalkz. I worked here for more than 2 years and moved back to my home town.
+            Datalkz. I worked here for more than 2 years and moved back to Kochi.
           </p>
           <p>
-            Currently I am working in <b>IBM India Software Labs</b> at Kochi as a Fullstack developer.
+            Currently I am working at <b>IBM India Software Labs</b> in Kochi as a Fullstack developer.
             Here I am working in OpenPages which is a part of IBM cloud, a huge amount of work is happening in the IBM Cloud 
             and I am looking forward to learn new things from here!
           </p>
           <p>
-            I am always interested in making things, sometimes it may not be
-            software at all. I love music production, making different cuisines,
-            making games, I always keep an eye on theoretical physics and
-            science, making electronic projects using microcontrollers like
-            ESP32, Arduino, Raspberry Pi (which is not a microcontroller by the
-            way ) and my life is an experiment <span role="img">🤯</span>.
+            I love music production, playing Guitar, preparing different cuisines, 
+            making mobile games, 3D modeling, I always keep an eye on theoretical physics and
+            popular science, making DIY projects using
+            ESP32, Arduino and Raspberry Pi and exploring more... <span role="img">😎</span>.
           </p>
         </div>
         <DownloadCV />
